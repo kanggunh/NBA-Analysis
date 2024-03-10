@@ -1,5 +1,5 @@
 ## NBA 2023-24 Analysis
-**[LINK TO PROJECT NOTEBOOK](https://nbviewer.org/github/kanggunh/NBA-Analysis/blob/bc75da0c6a1973d9ea9d98a23a144c90a74956f4/NBA%202023-24%20Analysis.ipynb)**
+**[LINK TO PROJECT NOTEBOOK](https://nbviewer.org/github/kanggunh/NBA-Analysis/blob/1db10e1329bdad302a5476a8cb816394c842ff68/NBA%202023-24%20Analysis.ipynb)**
 
 ---
 
