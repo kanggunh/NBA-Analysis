@@ -3,7 +3,7 @@
 
 ---
 
-Welcome to my NBA player stats analysis project. This project aim to provide a comprehensive understanding performance and its impact on team success in the fast-paced world of professional basketball. I will be using data from [kaggle - NBA Player Stats Dataset for the 2023-2024](https://www.kaggle.com/datasets/bryanchungweather/nba-player-stats-dataset-for-the-2023-2024).
+Welcome to my NBA player stats analysis project. This project aims to provide a comprehensive understanding of performance and its impact on team success in the fast-paced world of professional basketball. I will be using data from [kaggle - NBA Player Stats Dataset for the 2023-2024](https://www.kaggle.com/datasets/bryanchungweather/nba-player-stats-dataset-for-the-2023-2024).
 
 #### Table of Content
 - Data Cleaning and Pre-processing
